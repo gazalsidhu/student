@@ -5,7 +5,7 @@ package student;
 /**
  *This class +++Insert Discription Here+++
  *
- * @author gazal -- may 2020
+ * @author gazal -- 26 may 2020
  */
 public class Student {
 
